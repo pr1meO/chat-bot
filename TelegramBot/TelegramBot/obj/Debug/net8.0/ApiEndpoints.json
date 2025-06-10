@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TelegramBot.Web.Controllers.TelegramBotController",
+    "Method": "Post",
+    "RelativePath": "api/telegram/bot",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "update",
+        "Type": "Telegram.Bot.Types.Update",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
